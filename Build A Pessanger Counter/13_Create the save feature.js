@@ -6,6 +6,10 @@ function increment() {
     count += 1;
     countDisplay.innerHTML = count;
 }
+function decrement(){
+    count -= 1;
+    countDisplay.innerHTML = count;
+}
 function save() {
     variable = count + " - "
     saveEl.innerHTML += variable
