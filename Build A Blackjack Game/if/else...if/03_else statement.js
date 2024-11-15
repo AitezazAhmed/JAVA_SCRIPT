@@ -14,3 +14,4 @@ else if(age===100){
 else{
     console.log("Not elegible, you have already gotten one")
 }
+// Aitezaz Ahmed
