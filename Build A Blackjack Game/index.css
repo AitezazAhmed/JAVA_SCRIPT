@@ -1,0 +1,32 @@
+body{
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    background-image: url(https://t4.ftcdn.net/jpg/03/19/28/67/240_F_319286712_A1Ub7YD5EAtGhpxc9C0FaIPOPXKKU0rU.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-color: lightgreen;
+    height: 70vh;
+    position: relative;
+    background-size: max(1558px, 100vw);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+h1{
+    color: orange;
+display: flex;
+font-size: 50px;
+margin-left: 40vw;
+font-style: oblique;
+}
+#message-el{
+    font-size: 50px;
+    margin-left: 23vw;
+    color: yellow;
+    font-style: italic;
+}
+.margin{
+    font-size: 50px;
+    margin-left: 23vw;
+    color: yellow;
+    font-style: italic;
+
+}
