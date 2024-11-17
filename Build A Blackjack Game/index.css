@@ -30,3 +30,24 @@ font-style: oblique;
     font-style: italic;
 
 }
+.start{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 38vw;
+    color: darkgreen;
+    font-style: italic;
+    background-color: yellow;
+    border-radius: 10px;
+    display: flex;
+}
+#newcard{
+    margin-top: 5px;
+    font-size: 57px;
+    font-weight: bolder;
+    margin-left: 37.8vw;
+    color: darkgreen;
+    font-style: italic;
+    background-color: yellow;
+    border-radius: 10px;
+    display: flex;
+}
